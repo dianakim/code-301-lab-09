@@ -1,0 +1,28 @@
+{
+  "name": "code-301-lab-09",
+  "version": "1.0.0",
+  "description": "**Author**: Clay Hendrix-Wright, Diana Kim **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianakim/code-301-lab-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianakim/code-301-lab-09/issues"
+  },
+  "homepage": "https://github.com/dianakim/code-301-lab-09#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "superagent": "^5.1.0"
+  }
+}
